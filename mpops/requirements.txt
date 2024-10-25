@@ -16,3 +16,6 @@ scikit-learn
 tqdm
 typer
 -e .
+mypy
+pre-commit
+
