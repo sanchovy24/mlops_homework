@@ -13,9 +13,14 @@ venv\Scripts\activate  # Windows
 ## Установка зависимостей
 
 ```
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
+## Установка хуков
+
+```
+pre-commit install
+```
 ## Организация проекта
 
 ```
