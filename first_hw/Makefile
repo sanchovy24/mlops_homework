@@ -17,7 +17,7 @@ requirements:
 	$(PYTHON_INTERPRETER) -m pip install -U pip
 	$(PYTHON_INTERPRETER) -m pip install -r requirements.txt
 	
-
+еееееееее
 
 
 ## Delete all compiled Python files
